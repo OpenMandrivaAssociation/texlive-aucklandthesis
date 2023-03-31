@@ -1,6 +1,6 @@
 Name:		texlive-aucklandthesis
 Version:	51323
-Release:	1
+Release:	2
 Summary:	Memoir-based class for formatting University of Auckland masters' and doctors' theses
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/aucklandthesis
