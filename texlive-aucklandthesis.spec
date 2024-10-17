@@ -3,7 +3,7 @@ Version:	51323
 Release:	2
 Summary:	Memoir-based class for formatting University of Auckland masters' and doctors' theses
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/aucklandthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/aucklandthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aucklandthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aucklandthesis.doc.r%{version}.tar.xz
